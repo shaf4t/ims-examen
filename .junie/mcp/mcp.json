@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/Users/sr/Library/Application Support/Herd/bin/php84",
+            "args": [
+                "/Users/sr/Herd/ims-examen/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
